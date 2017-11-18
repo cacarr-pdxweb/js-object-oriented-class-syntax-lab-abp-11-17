@@ -14,7 +14,7 @@ class BoardMember {
   }
   
   doCharity() {
-    return 'I like people.';
+    return 'I like to help people.';
   }
   
   releasePressStatement() {
