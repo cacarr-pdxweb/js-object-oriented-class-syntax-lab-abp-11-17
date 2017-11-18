@@ -30,9 +30,4 @@ class BoardMember {
       return 'Welcome aboard!'
   }
 }
-    }
-    
-  }
-  
-}
 
