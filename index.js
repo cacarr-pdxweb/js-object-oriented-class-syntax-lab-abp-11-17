@@ -2,7 +2,7 @@ class BoardMember {
   constructor(name, homeState, training){
     this.name = name;
     this.homeState = homeState;
-    this.trainin = training;
+    this.training = training;
   }
   
   veto() {
